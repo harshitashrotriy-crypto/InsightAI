@@ -73,3 +73,88 @@ Rather than requiring users to manually inspect datasets using multiple tools, I
 ✅ Responsive Streamlit interface
 
 ---
+# ✨ Features
+
+| Feature | Description |
+|----------|-------------|
+| 📂 **Dataset Upload** | Upload CSV datasets for instant analysis. |
+| 📊 **Interactive Dashboard** | Explore KPIs, statistics, distributions, and business insights through interactive visualizations. |
+| 🤖 **AI Assistant** | Ask business questions in natural language and receive AI-powered insights using Groq LLM. |
+| 📈 **AI Visualizer** | Generate appropriate charts and visualizations to better understand your data. |
+| ✅ **Data Quality Analysis** | Detect missing values, duplicates, inconsistent data, and overall dataset health. |
+| 🔥 **Correlation Analysis** | Discover relationships between numerical variables using an interactive correlation heatmap. |
+| 📄 **Report Generation** | Generate professional analytical reports summarizing dataset insights. |
+| 🎨 **Modern UI** | Clean, responsive, and user-friendly interface built with Streamlit. |
+
+---
+
+# 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Language** | Python |
+| **Framework** | Streamlit |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Plotly |
+| **Artificial Intelligence** | Groq API (LLM) |
+| **Reporting** | ReportLab |
+| **Environment** | VS Code |
+| **Version Control** | Git & GitHub |
+
+---
+
+# 📸 Application Screenshots
+
+## 🏠 Home
+
+<img src="assets/screenshots/home.png" width="100%">
+
+---
+
+## 📂 Upload Dataset
+
+<img src="assets/screenshots/upload.png" width="100%">
+
+---
+
+## 📊 Dashboard
+
+<img src="assets/screenshots/dashboard.png" width="100%">
+
+---
+
+## 🤖 AI Assistant
+
+<img src="assets/screenshots/ai_assistant.png" width="100%">
+
+---
+
+## 📈 AI Visualizer
+
+<img src="assets/screenshots/ai_visualizer.png" width="100%">
+
+---
+
+## ✅ Data Quality Analysis
+
+<img src="assets/screenshots/quality.png" width="100%">
+
+---
+
+## 🔥 Correlation Analysis
+
+<img src="assets/screenshots/correlation.png" width="100%">
+
+---
+
+## 📄 Reports
+
+<img src="assets/screenshots/reports.png" width="100%">
+
+---
+
+## ℹ️ About
+
+<img src="assets/screenshots/about.png" width="100%">
+
+---
