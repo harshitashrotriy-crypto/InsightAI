@@ -808,7 +808,7 @@ Security and responsible data handling are fundamental principles behind Insight
 
 # 👩🏻‍💻 About the Developer
 
-<p align="center">
+<div align="LEFT">
 
 ## 👩🏻 Harshita Shrotriy
 
@@ -816,83 +816,38 @@ Security and responsible data handling are fundamental principles behind Insight
 
 Building intelligent analytics solutions that transform raw datasets into meaningful business insights through **Business Analytics, Data Visualization, Artificial Intelligence, and Modern Python Applications.**
 
-</p>
-
 <br>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-### 📊 Interests
-
-Business Analytics
-
-Generative AI
-
-Data Visualization
-
-Python Development
-
-Interactive Dashboards
-
-</td>
-
-<td align="center">
 
 ### 💻 Technologies
 
-Python
-
-SQL
-
-Tableau
-
-Snowflake
-
-Pandas
-
-Plotly
-
-Streamlit
-
-Groq LLM
-
-</td>
-
-</tr>
-
-</table>
+`Python` • `SQL` • `Tableau` • `Snowflake` • `Pandas` • `Plotly` • `Streamlit` • `Groq LLM`
 
 <br>
 
-<p align="center">
+### 📊 Interests
+
+📈 Business Analytics • 🤖 Generative AI • 📊 Data Visualization • 🐍 Python Development • 📉 Interactive Dashboards
+
+<br>
 
 <a href="https://github.com/harshitashrotriy-crypto">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshita-shrotriy-9573931a5/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://insight-ai-shrotriy.streamlit.app/">
-
-<img src="https://img.shields.io/badge/Live_Demo-InsightAI-success?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/🚀_Try_InsightAI-Live_Demo-success?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
+
 
 ---
 
