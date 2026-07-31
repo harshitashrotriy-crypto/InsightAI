@@ -681,31 +681,6 @@ Generate professional reports.
 
 </table>
 
----
-
-# 🎯 Typical Workflow
-
-```text
-📂 Upload Dataset
-        │
-        ▼
-📊 Explore Dashboard
-        │
-        ▼
-🧹 Review Data Quality
-        │
-        ▼
-🤖 Ask AI Assistant
-        │
-        ▼
-🎨 Generate Visualizations
-        │
-        ▼
-🔥 Analyze Correlations
-        │
-        ▼
-📄 Export Business Report
-```
 
 ---
 # 🔒 Security
