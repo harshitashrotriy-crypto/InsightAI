@@ -339,7 +339,7 @@ Data Analyst passionate about **Business Analytics**, **Generative AI**, **Data 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/harshita-shrotriy-9573931a5/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
