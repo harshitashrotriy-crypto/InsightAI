@@ -17,7 +17,7 @@ An AI-powered business analytics platform that transforms raw datasets into mean
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
 
 <a href="https://github.com/harshitashrotriy-crypto/InsightAI">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://insight-ai-shrotriy.streamlit.app/" target="_blank">
