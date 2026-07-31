@@ -24,13 +24,27 @@ An AI-powered business analytics platform that transforms raw datasets into mean
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-success?style=for-the-badge">
+<a href="https://insight-ai-shrotriy.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Try_InsightAI-success?style=for-the-badge">
 </a>
 
 </p>
 
 ---
+
+---
+
+# 🌐 Live Demo
+
+🚀 **Experience InsightAI here:**
+
+<a href="https://insight-ai-shrotriy.streamlit.app/" target="_blank">
+👉 
+
+No installation required—simply open the link and start exploring your data.
+
+---
+
 
 # 📖 Overview
 
@@ -54,7 +68,21 @@ Rather than requiring users to manually inspect datasets using multiple tools, I
 
 ---
 
-# ✨ Key Highlights
+# 🛠️ Tech Stack
+
+- **Frontend:** Streamlit
+- **Programming Language:** Python
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Plotly, Matplotlib
+- **AI:** Groq LLM
+- **Reporting:** ReportLab
+- **Version Control:** Git & GitHub
+- **Deployment:** Streamlit Community Cloud
+
+---
+
+
+# ✨ Core Features
 
 ✅ Upload and analyze CSV datasets
 
