@@ -157,35 +157,6 @@ InsightAI simplifies the analytics workflow by bringing essential data analysis 
 ✔️ End-to-end analytics workflow in a single application
 
 ---
-# 🏗️ Project Architecture
-
-```text
-                          +----------------------+
-                          |      User Uploads    |
-                          |      CSV Dataset     |
-                          +----------+-----------+
-                                     |
-                                     v
-                        +-------------------------+
-                        |    Data Processing      |
-                        | Pandas • NumPy • EDA    |
-                        +-----------+-------------+
-                                    |
-         ---------------------------------------------------------
-         |             |             |             |             |
-         v             v             v             v             v
- +---------------+ +------------+ +------------+ +------------+ +------------+
- | Dashboard     | | AI         | | AI         | | Data       | | Correlation|
- | Analytics     | | Assistant  | | Visualizer | | Quality    | | Analysis   |
- +---------------+ +------------+ +------------+ +------------+ +------------+
-         \             |              |              |              /
-          \____________|______________|______________|_____________/
-                                    |
-                                    v
-                          +----------------------+
-                          |   Reports & Insights |
-                          +----------------------+
-```
 
 ---
 
