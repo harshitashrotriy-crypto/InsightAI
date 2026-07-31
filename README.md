@@ -7,116 +7,82 @@
 </h1>
 
 <p align="center">
-<b>Transform raw datasets into meaningful business insights using Artificial Intelligence, Interactive Dashboards, Intelligent Visualizations, Automated Data Quality Analysis, and Natural Language AI Assistance.</b>
+<b>
+Transform raw datasets into meaningful business insights through Artificial Intelligence,
+Interactive Dashboards, Intelligent Visualizations, Automated Data Quality Analysis,
+and Natural Language AI Assistance.
+</b>
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-Interactive_Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Groq-LLM-F97316?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Business%20Analytics-7C3AED?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Generative_AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Analytics-Insights-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-Automated-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Quality-Analysis-16A34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Reports-Automated-DC2626?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deployment-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Quality-Assessment-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automated_Reports-PDF-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/harshitashrotriy-crypto/InsightAI">
-<img src="https://img.shields.io/badge/💻_GitHub-Repository-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://insight-ai-shrotriy.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-Try_InsightAI-22C55E?style=for-the-badge"/>
+<a href="https://insight-ai-shrotriy.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Try_InsightAI-success?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 🌟 Why InsightAI?
+# 📖 Overview
 
-> **InsightAI** is an AI-powered Business Analytics Platform designed to simplify the complete data analysis workflow—from uploading datasets to generating business insights—all within a modern and intuitive Streamlit application.
+**InsightAI** is an AI-powered Business Analytics platform that transforms raw datasets into actionable insights through interactive dashboards, intelligent visualizations, automated data quality analysis, and Generative AI.
 
-Instead of switching between multiple analytical tools, InsightAI combines **Exploratory Data Analysis**, **Interactive Dashboards**, **AI Assistance**, **Data Quality Evaluation**, **Correlation Analysis**, **Business Visualizations**, and **Automated Reports** into one seamless platform.
+Designed for analysts, business users, and data enthusiasts, the platform combines **Business Analytics**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Large Language Models (LLMs)** into a single intuitive application.
+
+Users can upload datasets, explore key metrics, uncover trends, evaluate data quality, generate interactive visualizations, create analytical reports, and interact with their data using natural language.
+
+InsightAI simplifies the analytics workflow by bringing essential data analysis capabilities together into one modern, user-friendly application.
 
 ---
 
-# ✨ Platform Highlights
+# 🎯 Project Objectives
 
 <table>
 
 <tr>
 
-<td width="33%" align="center">
+<td width="50%">
 
-### 📊 Smart Dashboards
+✅ Transform raw datasets into actionable business insights.
 
-Interactive KPI dashboards with business-focused visual analytics.
+✅ Simplify Exploratory Data Analysis (EDA).
 
-</td>
+✅ Enable interactive data visualization.
 
-<td width="33%" align="center">
-
-### 🤖 AI Assistant
-
-Ask business questions in natural language using Groq-powered AI.
+✅ Improve data quality through automated validation.
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%">
 
-### 📈 AI Visualizations
+✅ Leverage Generative AI for natural language analytics.
 
-Automatically generate meaningful charts from uploaded datasets.
+✅ Generate professional analytical reports.
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🧹 Data Quality
-
-Detect missing values, duplicates, inconsistencies, and dataset health.
-
-</td>
-
-<td align="center">
-
-### 🔥 Correlation Analysis
-
-Understand feature relationships using interactive heatmaps.
-
-</td>
-
-<td align="center">
-
-### 📄 Automated Reports
-
-Generate structured analytical reports with a single click.
+✅ Deliver a responsive and intuitive user experience.
 
 </td>
 
@@ -126,26 +92,34 @@ Generate structured analytical reports with a single click.
 
 ---
 
-# 🎯 Key Features
+# 🌐 Project Domains
 
 <div align="center">
 
-| 🚀 Feature | 💡 Description |
-|------------|----------------|
-| 📂 Dataset Upload | Upload CSV datasets instantly |
-| 📊 Interactive Dashboard | Explore KPIs and business metrics |
-| 🤖 AI Assistant | Ask questions about your data |
-| 🎨 AI Visualizer | Intelligent chart recommendations |
-| 🧹 Data Quality Analysis | Automated dataset validation |
-| 🔥 Correlation Analysis | Relationship discovery using heatmaps |
-| 📄 Report Generation | Export professional business reports |
-| ⚡ Fast Performance | Streamlit-powered responsive interface |
+| 📊 Business Analytics | 🤖 Generative AI | 📈 Exploratory Data Analysis | 📉 Data Visualization |
+|:---------------------:|:----------------:|:----------------------------:|:---------------------:|
+| 📑 Business Intelligence | 🧹 Data Quality Assessment | 💬 Natural Language Analytics | 📄 Automated Reporting |
 
 </div>
 
 ---
 
-# 💎 What Makes InsightAI Different?
+# 🚀 Core Features
+
+| 🚀 Feature | ✨ Description |
+|------------|---------------|
+| 📂 Smart Dataset Upload | Upload and analyze CSV datasets instantly |
+| 📊 Interactive Dashboard | Explore KPIs and business metrics |
+| 🤖 AI Business Assistant | Ask business questions using Groq LLM |
+| 🎨 AI Visualizer | Generate intelligent visualizations |
+| 🧹 Data Quality Analysis | Detect missing values, duplicates, and inconsistencies |
+| 🔥 Correlation Analysis | Discover feature relationships using heatmaps |
+| 📄 Automated Reports | Generate professional PDF reports |
+| ⚡ Responsive UI | Modern Streamlit interface optimized for usability |
+
+---
+
+# ⭐ Why InsightAI?
 
 <table>
 
@@ -153,33 +127,33 @@ Generate structured analytical reports with a single click.
 
 <td width="50%">
 
-## 🚀 Traditional Analytics
+## 📊 Traditional Workflow
 
-❌ Multiple software tools
+❌ Multiple tools
 
-❌ Manual chart creation
+❌ Manual reporting
 
-❌ Time-consuming analysis
+❌ Repetitive analysis
 
-❌ Repetitive reporting
+❌ Separate AI tools
 
-❌ Limited automation
+❌ Time-consuming insights
 
 </td>
 
 <td width="50%">
 
-## 🤖 InsightAI
+## 🚀 InsightAI
 
 ✅ One integrated platform
 
-✅ AI-powered assistance
+✅ AI-powered analytics
 
 ✅ Automated visualizations
 
-✅ Business-ready dashboards
+✅ Natural language assistance
 
-✅ One-click report generation
+✅ Faster business insights
 
 </td>
 
@@ -188,61 +162,73 @@ Generate structured analytical reports with a single click.
 </table>
 
 ---
-# 🛠 Technology Stack
+# 🛠️ Technology Stack
 
 <p align="center">
-InsightAI combines modern AI, analytics, visualization, and deployment technologies into one intelligent business analytics platform.
+InsightAI brings together modern technologies across AI, analytics, visualization, reporting, and deployment to deliver a complete business analytics experience.
 </p>
-
----
 
 <table>
 
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## 🤖 AI
 
-<img src="https://img.shields.io/badge/Groq-LLM-F97316?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/Groq-LLM-F97316?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Prompt-Engineering-7C3AED?style=for-the-badge"/>
+<br>
+
+<img src="https://img.shields.io/badge/Generative_AI-Powered-8B5CF6?style=for-the-badge"/>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-## 🐍 Backend
+## 🐍 Programming
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br><br>
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## 📊 Analytics
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/ReportLab-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-Business_Analytics-0891B2?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data_Quality-Assessment-16A34A?style=for-the-badge"/>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## ☁️ Deployment
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ReportLab-PDF-DC2626?style=for-the-badge"/>
 
 </td>
 
@@ -252,22 +238,50 @@ InsightAI combines modern AI, analytics, visualization, and deployment technolog
 
 ---
 
-# 🧠 Core Capabilities
+# 💻 Technologies Used
 
-<div align="center">
-
-| 💼 Business Analytics | 🤖 Artificial Intelligence | 📊 Visualization |
-|:---------------------:|:--------------------------:|:----------------:|
-| Exploratory Data Analysis | Natural Language Queries | Interactive Charts |
-| KPI Dashboards | AI Business Assistant | Heatmaps |
-| Business Reports | AI Visualizer | Statistical Graphs |
-| Data Quality Checks | Insight Generation | Dynamic Dashboard |
-
-</div>
+| Category | Technologies |
+|-----------|--------------|
+| 🐍 **Programming Language** | Python |
+| 🎨 **Framework** | Streamlit |
+| 📊 **Business Analytics** | KPI Analysis, Exploratory Data Analysis (EDA), Business Intelligence |
+| 📂 **Data Processing** | Pandas, NumPy |
+| 📈 **Visualization** | Plotly |
+| 🤖 **Generative AI** | Groq LLM API |
+| 🧹 **Data Quality** | Missing Value Analysis, Duplicate Detection, Correlation Analysis |
+| 📄 **Reporting** | ReportLab |
+| 💻 **Development** | VS Code |
+| 🌐 **Version Control** | Git & GitHub |
 
 ---
 
-# 🏗 Application Workflow
+# 🏗️ Project Architecture
+
+```text
+
+                         📂 CSV Dataset
+                               │
+                               ▼
+                 ┌─────────────────────────┐
+                 │   Data Processing Layer │
+                 │    Pandas • NumPy • EDA │
+                 └────────────┬────────────┘
+                              │
+      ┌──────────────┬─────────┼─────────┬──────────────┐
+      ▼              ▼         ▼         ▼              ▼
+
+ 📊 Dashboard    🤖 AI       🎨 AI     🧹 Data      🔥 Correlation
+                 Assistant  Visualizer Quality        Analysis
+
+      └──────────────┬─────────┼─────────┬──────────────┘
+                     ▼
+          📄 Reports & Business Insights
+
+```
+
+---
+
+# ⚙️ Platform Workflow
 
 ```mermaid
 flowchart LR
@@ -282,11 +296,12 @@ C --> D[🤖 AI Assistant]
 
 D --> E[🎨 AI Visualizer]
 
-E --> F[🔥 Correlation Analysis]
+E --> F[🔥 Correlation]
 
 F --> G[📄 Reports]
 
 G --> H[ℹ️ About]
+
 ```
 
 ---
@@ -294,36 +309,38 @@ G --> H[ℹ️ About]
 # 📂 Project Structure
 
 ```text
+
 InsightAI
 │
-├── app
+├── 📂 app
 │   │
-│   ├── components
+│   ├── 📂 pages
+│   │   ├── 🏠 home.py
+│   │   ├── 📂 upload.py
+│   │   ├── 📊 dashboard.py
+│   │   ├── 🤖 ai_assistant.py
+│   │   ├── 🎨 ai_visualizer.py
+│   │   ├── 🧹 data_quality.py
+│   │   ├── 🔥 correlation.py
+│   │   ├── 📄 reports.py
+│   │   └── ℹ️ about.py
 │   │
-│   ├── pages
-│   │   ├── home.py
-│   │   ├── upload.py
-│   │   ├── dashboard.py
-│   │   ├── data_quality.py
-│   │   ├── ai_assistant.py
-│   │   ├── ai_visualizer.py
-│   │   ├── correlation.py
-│   │   ├── reports.py
-│   │   └── about.py
-│   │
-│   ├── utils
-│   │
-│   └── config.py
+│   └── 📂 utils
+│       ├── ai.py
+│       ├── chart_generator.py
+│       ├── data_summary.py
+│       └── pdf_generator.py
 │
-├── assets
+├── 📂 assets
 │   ├── banner.png
 │   ├── insightai_logo.png
 │   └── screenshots
 │
-├── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── 🚀 main.py
+├── 📄 requirements.txt
+├── 📘 README.md
+└── ⚙️ .gitignore
+
 ```
 
 ---
@@ -336,33 +353,33 @@ InsightAI
 
 <td align="center" width="33%">
 
-### 📂 Data Management
+## 📂 Data Management
 
-Upload datasets
+CSV Upload
 
-Dataset validation
+Data Validation
 
-File handling
+File Processing
 
 </td>
 
 <td align="center" width="33%">
 
-### 📊 Analytics
+## 📊 Analytics
 
 Dashboard
 
 EDA
 
-Correlation
-
 Data Quality
+
+Correlation
 
 </td>
 
 <td align="center" width="33%">
 
-### 🤖 AI
+## 🤖 AI
 
 Business Assistant
 
@@ -380,160 +397,174 @@ Report Generation
 
 # 🚀 Built For
 
-<div align="center">
+<p align="center">
 
-🏢 Business Analysts &nbsp;&nbsp;|&nbsp;&nbsp;
+🏢 Business Analysts &nbsp;&nbsp;•&nbsp;&nbsp;
 
-📊 Data Analysts &nbsp;&nbsp;|&nbsp;&nbsp;
+📊 Data Analysts &nbsp;&nbsp;•&nbsp;&nbsp;
 
-📈 BI Developers &nbsp;&nbsp;|&nbsp;&nbsp;
+📈 BI Developers &nbsp;&nbsp;•&nbsp;&nbsp;
 
-🎓 Students &nbsp;&nbsp;|&nbsp;&nbsp;
+🎓 Students &nbsp;&nbsp;•&nbsp;&nbsp;
 
 🤖 AI Enthusiasts
 
-</div>
+</p>
 
 ---
-# 📸 Application Preview
+# 📸 Application Showcase
 
 <p align="center">
-Experience the complete workflow of <b>InsightAI</b> through its intuitive and AI-powered interface.
+Explore the complete workflow of <b>InsightAI</b> through its intuitive interface.
 </p>
 
 ---
 
+## 🏠 Home • 📂 Upload Dataset
+
 <table>
-
 <tr>
 
 <td align="center" width="50%">
 
-## 🏠 Home
+### 🏠 Home
 
-<img src="assets/screenshots/home.png" width="100%"/>
+<img src="assets/screenshots/home.png" width="95%">
 
-Discover the platform, its capabilities, and begin your analytics journey.
+<i>Landing page introducing InsightAI, its capabilities, and navigation.</i>
 
 </td>
 
 <td align="center" width="50%">
 
-## 📂 Upload Dataset
+### 📂 Upload Dataset
 
-<img src="assets/screenshots/upload.png" width="100%"/>
+<img src="assets/screenshots/upload.png" width="95%">
 
-Upload CSV datasets securely and instantly prepare them for analysis.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## 📊 Dashboard
-
-<img src="assets/screenshots/dashboard.png" width="100%"/>
-
-Monitor KPIs, dataset summaries, and interactive business insights.
-
-</td>
-
-<td align="center">
-
-## 🧹 Data Quality Analysis
-
-<img src="assets/screenshots/quality.png" width="100%"/>
-
-Identify missing values, duplicates, inconsistencies, and overall data health.
+<i>Upload CSV datasets and instantly begin business analytics.</i>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center">
-
-## 🤖 AI Assistant
-
-<img src="assets/screenshots/ai_assistant.png" width="100%"/>
-
-Interact with your data using natural language powered by Groq LLM.
-
-</td>
-
-<td align="center">
-
-## 🎨 AI Visualizer
-
-<img src="assets/screenshots/ai_visualizer.png" width="100%"/>
-
-Receive intelligent visualization recommendations tailored to your dataset.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## 🔥 Correlation Analysis
-
-<img src="assets/screenshots/correlation.png" width="100%"/>
-
-Discover relationships between variables using interactive correlation heatmaps.
-
-</td>
-
-<td align="center">
-
-## 📄 Reports
-
-<img src="assets/screenshots/reports.png" width="100%"/>
-
-Generate professional analytical reports in a single click.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-## ℹ️ About
-
-<img src="assets/screenshots/about.png" width="75%"/>
-
-Learn about the project, its objectives, technologies, and development journey.
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 🚀 Quick Start
+## 📊 Dashboard • 🧹 Data Quality
 
-Getting InsightAI running locally takes just a few minutes.
+<table>
+<tr>
 
-## 📋 Prerequisites
+<td align="center" width="50%">
 
-- Python 3.10+
-- Git
-- Groq API Key
+### 📊 Dashboard
+
+<img src="assets/screenshots/dashboard.png" width="95%">
+
+<i>Monitor KPIs, dataset statistics, and interactive business insights.</i>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧹 Data Quality Analysis
+
+<img src="assets/screenshots/quality.png" width="95%">
+
+<i>Identify missing values, duplicates, inconsistencies, and overall dataset quality.</i>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## ⚙️ Installation
+## 🤖 AI Assistant • 🎨 AI Visualizer
 
-### ① Clone the Repository
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🤖 AI Assistant
+
+<img src="assets/screenshots/ai_assistant.png" width="95%">
+
+<i>Interact with your data using natural language powered by Groq LLM.</i>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 AI Visualizer
+
+<img src="assets/screenshots/ai_visualizer.png" width="95%">
+
+<i>Receive AI-powered chart recommendations based on your dataset.</i>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔥 Correlation Analysis • 📄 Reports
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔥 Correlation Analysis
+
+<img src="assets/screenshots/correlation.png" width="95%">
+
+<i>Understand relationships between numerical features using correlation heatmaps.</i>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📄 Reports
+
+<img src="assets/screenshots/reports.png" width="95%">
+
+<i>Generate professional analytical reports with a single click.</i>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ℹ️ About
+
+<p align="center">
+
+<img src="assets/screenshots/about.png" width="80%">
+
+<br>
+
+<i>Project overview, technologies used, and developer information.</i>
+
+</p>
+
+---
+
+# ⚙️ Installation
+
+<p align="center">
+
+<b>Get InsightAI up and running in just a few minutes.</b>
+
+</p>
+
+---
+
+## ① Clone the Repository
 
 ```bash
 git clone https://github.com/harshitashrotriy-crypto/InsightAI.git
@@ -543,29 +574,7 @@ cd InsightAI
 
 ---
 
-### ② Create Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-Activate the environment
-
-**Windows**
-
-```bash
-.venv\Scripts\activate
-```
-
-**macOS / Linux**
-
-```bash
-source .venv/bin/activate
-```
-
----
-
-### ③ Install Dependencies
+## ② Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -573,21 +582,25 @@ pip install -r requirements.txt
 
 ---
 
-### ④ Configure Environment Variables
+## ③ Configure Environment Variables
 
-Create a `.env` file.
+Create a **.env** file in the project root.
 
 ```env
-GROQ_API_KEY=YOUR_GROQ_API_KEY
+GROQ_API_KEY=your_groq_api_key
 ```
+
+> 🔒 Your API key is securely excluded using `.gitignore`.
 
 ---
 
-### ⑤ Launch InsightAI
+## ④ Launch InsightAI
 
 ```bash
 streamlit run main.py
 ```
+
+Open the local Streamlit URL shown in your terminal (typically **http://localhost:8501**).
 
 ---
 
@@ -595,13 +608,9 @@ streamlit run main.py
 
 <p align="center">
 
-🚀 <b>Try InsightAI without any installation</b>
-
-<br><br>
-
 <a href="https://insight-ai-shrotriy.streamlit.app/">
 
-<img src="https://img.shields.io/badge/Launch_InsightAI-Streamlit-success?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀_Launch_InsightAI-Live-success?style=for-the-badge&logo=streamlit">
 
 </a>
 
@@ -609,7 +618,7 @@ streamlit run main.py
 
 ---
 
-# 💡 How It Works
+# 💡 How to Use InsightAI
 
 <table>
 
@@ -617,23 +626,9 @@ streamlit run main.py
 
 <td align="center">
 
-### 📂
+### 📂 Upload
 
-Upload
-
-</td>
-
-<td align="center">
-
-➡️
-
-</td>
-
-<td align="center">
-
-### 📊
-
-Analyze
+Upload any CSV dataset.
 
 </td>
 
@@ -645,9 +640,9 @@ Analyze
 
 <td align="center">
 
-### 🤖
+### 📊 Analyze
 
-Ask AI
+Explore dashboards & KPIs.
 
 </td>
 
@@ -659,9 +654,23 @@ Ask AI
 
 <td align="center">
 
-### 📄
+### 🤖 Ask AI
 
-Generate Report
+Gain business insights.
+
+</td>
+
+<td align="center">
+
+➡️
+
+</td>
+
+<td align="center">
+
+### 📄 Report
+
+Generate professional reports.
 
 </td>
 
@@ -673,76 +682,58 @@ Generate Report
 
 # 🎯 Typical Workflow
 
-✅ Upload your dataset
-
-↓
-
-✅ Explore dashboard insights
-
-↓
-
-✅ Perform data quality analysis
-
-↓
-
-✅ Discover feature correlations
-
-↓
-
-✅ Ask business questions using AI
-
-↓
-
-✅ Generate reports
-
-↓
-
-✅ Share business insights
+```text
+📂 Upload Dataset
+        │
+        ▼
+📊 Explore Dashboard
+        │
+        ▼
+🧹 Review Data Quality
+        │
+        ▼
+🤖 Ask AI Assistant
+        │
+        ▼
+🎨 Generate Visualizations
+        │
+        ▼
+🔥 Analyze Correlations
+        │
+        ▼
+📄 Export Business Report
+```
 
 ---
-
-# 🚀 Future Roadmap
+# 🔒 Security
 
 <p align="center">
-The journey of <b>InsightAI</b> has just begun. Future enhancements will focus on expanding AI capabilities, improving analytics, and delivering an even better user experience.
+Security and responsible data handling are fundamental principles behind InsightAI.
 </p>
-
----
 
 <table>
 
 <tr>
 
-<td align="center" width="33%">
+<td width="50%">
 
-## 🤖 AI
+### 🔐 Data Protection
 
-- Conversational AI Memory
-- Multi-Agent AI
-- Explainable AI Insights
-- AI-generated Dashboards
-
-</td>
-
-<td align="center" width="33%">
-
-## 📊 Analytics
-
-- Predictive Analytics
-- Forecasting Models
-- Advanced KPI Tracking
-- Custom Dashboard Builder
+- API Keys stored using `.env`
+- `.gitignore` protects sensitive files
+- No credentials committed to GitHub
+- Secure local configuration
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%">
 
-## ☁️ Platform
+### 🛡️ Application Security
 
-- User Authentication
-- Cloud Database
-- Multi-file Analysis
-- Team Collaboration
+- Session-based dataset processing
+- No confidential information stored
+- Secure Groq API integration
+- Clean project structure
 
 </td>
 
@@ -752,87 +743,57 @@ The journey of <b>InsightAI</b> has just begun. Future enhancements will focus o
 
 ---
 
-# 🎓 Learning Outcomes
+# 🔮 Future Enhancements
 
-Throughout the development of **InsightAI**, the project strengthened practical knowledge in:
+<p align="center">
+
+<b>The roadmap for InsightAI continues with exciting AI and analytics capabilities.</b>
+
+</p>
 
 <table>
 
 <tr>
 
-<td>
+<td align="center" width="33%">
 
-✅ Generative AI Integration
+## 🤖 AI
 
-</td>
+• Smarter AI Assistant
 
-<td>
+• Multi-Agent AI
 
-✅ Prompt Engineering
+• AI Dashboard Generation
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Business Analytics
+• Dataset Summarization
 
 </td>
 
-<td>
+<td align="center" width="33%">
 
-✅ Interactive Dashboard Design
+## 📊 Analytics
 
-</td>
+• Predictive Analytics
 
-</tr>
+• Forecasting
 
-<tr>
+• Advanced KPI Dashboard
 
-<td>
-
-✅ Exploratory Data Analysis (EDA)
+• Interactive Filters
 
 </td>
 
-<td>
+<td align="center" width="33%">
 
-✅ Data Visualization
+## ☁️ Platform
 
-</td>
+• User Authentication
 
-</tr>
+• Database Connectivity
 
-<tr>
+• Multi-file Analysis
 
-<td>
-
-✅ Streamlit Development
-
-</td>
-
-<td>
-
-✅ Python Application Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Git & GitHub Workflow
-
-</td>
-
-<td>
-
-✅ Cloud Deployment
+• Cloud Storage
 
 </td>
 
@@ -850,63 +811,101 @@ Throughout the development of **InsightAI**, the project strengthened practical 
 
 ### Data Analyst • Business Intelligence Developer • AI Enthusiast
 
-Building intelligent analytics solutions that transform raw datasets into actionable business insights through **Artificial Intelligence, Business Analytics, Data Visualization, and Modern Python Applications.**
+Building intelligent analytics solutions that transform raw datasets into meaningful business insights through **Business Analytics, Data Visualization, Artificial Intelligence, and Modern Python Applications.**
 
 </p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+### 📊 Interests
+
+Business Analytics
+
+Generative AI
+
+Data Visualization
+
+Python Development
+
+Interactive Dashboards
+
+</td>
+
+<td align="center">
+
+### 💻 Technologies
+
+Python
+
+SQL
+
+Tableau
+
+Snowflake
+
+Pandas
+
+Plotly
+
+Streamlit
+
+Groq LLM
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
 <a href="https://github.com/harshitashrotriy-crypto">
 
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/harshita-shrotriy-9573931a5/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://insight-ai-shrotriy.streamlit.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-InsightAI-22C55E?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-InsightAI-success?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </a>
 
 </p>
-
----
-
-# 🤝 Contributing
-
-Contributions, suggestions, feature requests, and feedback are always welcome.
-
-If you'd like to improve InsightAI:
-
-⭐ Star the repository
-
-🍴 Fork the project
-
-🐞 Report bugs
-
-💡 Suggest new features
-
-📩 Submit a Pull Request
 
 ---
 
 # 🙏 Acknowledgements
 
-This project was made possible thanks to the amazing open-source community and the technologies that power InsightAI.
+<p align="center">
+
+Special thanks to the open-source community and the technologies that power InsightAI.
+
+</p>
 
 <div align="center">
 
-Python • Streamlit • Groq • Pandas • NumPy • Plotly • Matplotlib • ReportLab • GitHub
+| 🐍 Python | 🎨 Streamlit | 📊 Pandas | 📈 Plotly |
+|:---------:|:-----------:|:---------:|:---------:|
+| 🤖 Groq API | 📄 ReportLab | 🌐 GitHub | 💡 Open Source |
 
 </div>
 
@@ -914,20 +913,58 @@ Python • Streamlit • Groq • Pandas • NumPy • Plotly • Matplotlib •
 
 # 📜 License
 
+<div align="center">
+
 This project is licensed under the **MIT License**.
 
-You are welcome to use, learn from, and build upon this project with appropriate attribution.
+Feel free to use, learn from, and build upon this project while providing appropriate attribution.
+
+</div>
 
 ---
 
+# ⭐ Support the Project
+
 <div align="center">
 
-# ⭐ Thank You for Visiting!
+If you enjoyed exploring **InsightAI**, consider supporting the project.
 
-### If you found this project helpful, please consider giving it a ⭐ on GitHub.
+⭐ Star the repository
 
-### 🚀 Explore • Learn • Build • Innovate
+🍴 Fork the project
 
-Made with ❤️ using **Python**, **Streamlit**, **Artificial Intelligence**, and a passion for transforming data into meaningful insights.
+💡 Share your feedback
+
+🤝 Connect on LinkedIn
+
+🚀 Explore the Live Demo
 
 </div>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Powered%20By-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Groq%20LLM-F97316?style=for-the-badge"/>
+
+</p>
+
+<h2 align="center">
+
+✨ Turning Raw Data into Actionable Business Insights ✨
+
+</h2>
+
+<p align="center">
+
+<b>Thank you for visiting the InsightAI repository.</b>
+
+<br><br>
+
+If you found this project useful, don't forget to ⭐ the repository.
+
+</p>
