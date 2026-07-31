@@ -223,67 +223,42 @@ InsightAI/
 └── .gitignore
 ```
 
----
+# 🚀 Quick Start
 
-# ⚙️ Installation
+Follow these steps to run **InsightAI** locally.
 
-## 1️⃣ Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/harshitashrotriy-crypto/InsightAI.git
-```
-
-## 2️⃣ Navigate to the Project
-
-```bash
 cd InsightAI
 ```
 
-## 3️⃣ Create a Virtual Environment (Recommended)
-
-### Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### macOS / Linux
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-## 4️⃣ Install Dependencies
+## 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
+## 3. Configure Environment Variables
 
-# 🔑 Environment Variables
-
-Create a `.env` file in the project root.
+Create a `.env` file in the project root and add your Groq API key:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
 ```
 
-> **Note:** Never commit your `.env` file or API keys to GitHub.
+> **Note:** Your API key is never stored in the repository. The `.env` file is excluded using `.gitignore`.
 
----
-
-# 🚀 Running the Application
-
-Launch the Streamlit app using:
+## 4. Run the Application
 
 ```bash
 streamlit run main.py
 ```
 
-After the application starts, open the local URL shown in the terminal (typically `http://localhost:8501`).
+Once the application starts, open the local Streamlit URL displayed in your terminal (typically `http://localhost:8501`).
+
+---
 
 ---
 
