@@ -15,17 +15,14 @@ An AI-powered business analytics platform that transforms raw datasets into mean
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
-
 <p align="center">
-
   <a href="https://github.com/harshitashrotriy-crypto/InsightAI">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://insight-ai-shrotriy.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Try_InsightAI-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?style=for-the-badge&logo=streamlit" />
   </a>
-
 </p>
 
 ---
