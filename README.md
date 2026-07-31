@@ -283,24 +283,27 @@ InsightAI brings together modern technologies across AI, analytics, visualizatio
 
 # ⚙️ Platform Workflow
 
-```mermaid
-flowchart LR
+<p align="center">
 
-A[📂 Upload Dataset]
+| Step | Module | Purpose |
+|:---:|---------|---------|
+| **①** | 📂 **Upload Dataset** | Import CSV datasets for analysis |
+| **⬇️** | | |
+| **②** | 📊 **Dashboard** | Explore KPIs, summaries and business metrics |
+| **⬇️** | | |
+| **③** | 🧹 **Data Quality** | Detect missing values, duplicates and inconsistencies |
+| **⬇️** | | |
+| **④** | 🤖 **AI Assistant** | Ask business questions using natural language |
+| **⬇️** | | |
+| **⑤** | 🎨 **AI Visualizer** | Generate AI-powered visualizations |
+| **⬇️** | | |
+| **⑥** | 🔥 **Correlation Analysis** | Discover relationships between variables |
+| **⬇️** | | |
+| **⑦** | 📄 **Reports** | Export professional analytical reports |
+| **⬇️** | | |
+| **⑧** | ℹ️ **About** | Learn about the platform and developer |
 
-A --> B[📊 Dashboard]
-
-B --> C[🧹 Data Quality]
-
-C --> D[🤖 AI Assistant]
-
-D --> E[🎨 AI Visualizer]
-
-E --> F[🔥 Correlation]
-
-F --> G[📄 Reports]
-
-G --> H[ℹ️ About]
+</p>
 
 ```
 
@@ -807,7 +810,7 @@ Security and responsible data handling are fundamental principles behind Insight
 
 <p align="center">
 
-## 👩🏻‍💻 Harshita Shrotriy
+## 👩🏻 Harshita Shrotriy
 
 ### Data Analyst • Business Intelligence Developer • AI Enthusiast
 
@@ -963,7 +966,7 @@ If you enjoyed exploring **InsightAI**, consider supporting the project.
 
 <b>Thank you for visiting the InsightAI repository.</b>
 
-<br><br>
+<br>
 
 If you found this project useful, don't forget to ⭐ the repository.
 
